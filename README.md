@@ -18,7 +18,7 @@ Manually collected data from RYM to build a dataset of the top 5000 albums. The 
 
 ## Data source
 
-- Publically available [charts](https://rateyourmusic.com/charts/)
+- Publically available [charts](https://rateyourmusic.com/charts/top/album/all-time/)
 - Data currently limited to manually saved pages, as the website doesn't allow automated web scraping and its API is still in development.
 
 ---
