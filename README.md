@@ -3,7 +3,7 @@ Statistical analysis of Rate Your Music’s (RYM) top 5000 albums revealing key 
 
 ---
 
-## Project objetives
+## Project objectives
 
 Manually collected data from RYM to build a dataset of the top 5000 albums. The goal is to fully scrape, clean, and analyze this dataset to identify key musical trends and patterns.
 
